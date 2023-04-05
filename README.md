@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Bilol<br>A passionate .NET developer from Uzbekistan
+<h1>Hi there, I am Bilol 👋</h1>
+<h2>A passionate .NET developer from Uzbekistan</h2>
 
 
 ## 🌐 Socials:
