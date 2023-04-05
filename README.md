@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#,.NET, Angular**
 
-- 👨‍💻 All of my projects are available at [https://uz.linkedin.com/in/bilolkobilov/en](https://uz.linkedin.com/in/bilolkobilov/en)
+- 👨‍💻 All of my projects are available at my [LinkedIn](https://uz.linkedin.com/in/bilolkobilov/en)
 
 - 📫 How to reach me **bilolkobilov1@gmail.com**
 
