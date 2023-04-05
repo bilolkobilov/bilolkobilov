@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilolkobilov&label=Profile%20views&color=0e75b6&style=flat" alt="bilolkobilov" /> </p>
 
-- 🔭 I’m currently working on [Tarteeb](https://github.com/bilolkobilov/Tarteeb)
+- 🔭 I’m currently working on [Tarteeb](https://github.com/bilolkobilov/Tarteeb) and [CashOverFlow](https://github.com/bilolkobilov/CashOverFlow)
+
 
 - 🌱 I’m currently learning **C#,.NET, Angular**
 
