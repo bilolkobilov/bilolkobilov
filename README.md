@@ -6,15 +6,7 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left">How to reach me</p>
+<h1 align="left"></h1>
 
 ###
 
