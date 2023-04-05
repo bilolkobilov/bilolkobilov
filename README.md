@@ -6,10 +6,6 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/_bilolkobilov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
