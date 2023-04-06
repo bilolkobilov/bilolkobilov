@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/_bilolkobilov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
+  <a href="https://mailto:bilolkobilov1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="http://www.linkedin.com/in/bilolkobilov" target="_blank">
