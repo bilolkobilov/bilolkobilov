@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi there, I am Bilol👋"></a>
-</p>
-<h1 align="left">Hi there, I am Bilol👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I+am+Bilol%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ###
 
