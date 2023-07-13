@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
 
-### Fun fact
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="display: block; margin: 0 auto;" />
 </p>
