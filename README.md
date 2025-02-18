@@ -2,8 +2,9 @@
 
 <p align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=First%2C+solve+the+problem.+Then+write+the+code." alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=If+it+works%2C+don’t+touch+it." alt="Typing Quote" />
 </p>
+
 
 
 ## 🚀 About Me  
