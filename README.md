@@ -104,14 +104,13 @@ Full-stack developer crafting scalable, high-performance web applications with a
 
 <div align="center">
   <a href="https://github.com/bilolkobilov">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bilolkobilov&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=bilolkobilov&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bilolkobilov&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
 </div>
-
 ## 💭 Coding Philosophy
 
 ```javascript
