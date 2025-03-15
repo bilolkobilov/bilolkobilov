@@ -16,42 +16,80 @@ Full-stack developer crafting scalable, high-performance web applications with a
 
 <div align="left">
   <a href="mailto:bilolkobilov1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="http://www.linkedin.com/in/bilolkobilov">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/bilolkobilov">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ## 🛠️ Tech Stack
 
-### Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,java" alt="Languages" />
-</div>
-
-### Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,sass" alt="Frontend" />
-</div>
-
-### Backend & Cloud
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,aws,azure" alt="Backend & Cloud" />
-</div>
-
-### Database
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" alt="Databases" />
-</div>
-
-### DevOps & Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,postman" alt="DevOps & Tools" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Angular" width="48" height="48" />
+      <br>Angular
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="48" height="48" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+ <td align="center" width="96">
+  <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="48" height="48" alt="MS SQL" />
+  <br>MS SQL
+</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
