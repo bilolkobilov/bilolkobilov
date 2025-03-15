@@ -1,74 +1,93 @@
-# Hey there, I'm Bilol! 👋
+# Bilol Kobilov | Full-Stack Developer
 
 <p align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=If+it+works%2C+don’t+touch+it." alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=If+it+works%2C+don't+touch+it." alt="Typing Quote" />
 </p>
 
+## 👨‍💻 About Me
 
+Full-stack developer crafting scalable, high-performance web applications with a focus on:
 
-## 🚀 About Me  
-I’m a **Full-Stack Developer** passionate about building **scalable** and **high-performance** web applications.  
-- ⚡ Efficient & maintainable backend solutions  
-- 🚀 Scalable cloud infrastructure  
-- 🔍 Clean architecture & best coding practices  
+- ⚡ Efficient & maintainable backend solutions
+- 🚀 Scalable cloud infrastructure
+- 🔍 Clean architecture & best coding practices
 
+## 🔗 Connect With Me
 
-## 📬 Let's Connect  
-
-<div align="left"> 
-  <a href="mailto:bilolkobilov1@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> 
-  </a> 
-  <a href="http://www.linkedin.com/in/bilolkobilov" target="_blank"> 
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
-  </a>  
+<div align="left">
+  <a href="mailto:bilolkobilov1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="http://www.linkedin.com/in/bilolkobilov">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bilolkobilov">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
+## 🛠️ Tech Stack
 
-## 🛠 Tech Stack  
+### Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,java" alt="Languages" />
+</div>
 
-### 💡 Core Technologies  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+### Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,sass" alt="Frontend" />
+</div>
 
-### 🎨 Frontend Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### Backend & Cloud
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,aws,azure" alt="Backend & Cloud" />
+</div>
 
-### 🗄️ Database Management  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+### Database
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" alt="Databases" />
+</div>
 
-### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+### DevOps & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,postman" alt="DevOps & Tools" />
+</div>
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/bilolkobilov">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilolkobilov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/bilolkobilov">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bilolkobilov&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-## 📈 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/bilolkobilov">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bilolkobilov&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilolkobilov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bilolkobilov&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+</div>
 
+## 💭 Coding Philosophy
 
-## 💡 Coding Philosophy
 ```javascript
-const myPrinciples = {
+const bilolApproach = {
   codeQuality: "Always leave it better than you found it",
   testing: "If it's not tested, it's broken",
-  learning: "1 new thing every day",
-  collaboration: "Teamwork > Ego"
+  learning: "Master one new thing every day",
+  collaboration: "Teamwork over ego",
+  problemSolving: "Simple solutions to complex problems"
 };
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bilolkobilov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
