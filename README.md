@@ -6,10 +6,10 @@ Experienced software engineer specializing in scalable web applications and ente
 
 ## Contact
 
-- **Email:** [bilolkobilov1@gmail.com](mailto:bilolkobilov1@gmail.com)
-- **LinkedIn:** [linkedin.com/in/bilolkobilov](http://www.linkedin.com/in/bilolkobilov)
-- **Portfolio:** [bilol.me](https://www.bilol.me/en)
-- **GitHub:** [github.com/bilolkobilov](https://github.com/bilolkobilov)
+[![Email](https://img.shields.io/badge/Email-bilolkobilov1%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilolkobilov1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilolkobilov-black?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bilolkobilov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bilol.me-black?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.bilol.me/en)
+[![GitHub](https://img.shields.io/badge/GitHub-bilolkobilov-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilolkobilov)
 
 ## Areas of Expertise
 
