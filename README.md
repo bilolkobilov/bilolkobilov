@@ -1,6 +1,4 @@
-# Bilol Kobilov
-
-**Full-Stack Software Engineer**
+# Bilol Kobilov | **Full-Stack Software Engineer**
 
 Experienced software engineer specializing in scalable web applications and enterprise architecture. Committed to delivering high-quality solutions using modern development practices and industry standards.
 
@@ -25,9 +23,9 @@ Experienced software engineer specializing in scalable web applications and ente
 
 | Category | Skills |
 |----------|--------|
-| Frontend Development | JavaScript, TypeScript, React, Angular, Modern web standards and best practices |
-| Backend Development | Node.js, Python, RESTful APIs and microservices |
-| Databases & Cloud | MySQL, PostgreSQL, Microsoft Azure, Heroku, Database design and optimization |
+| Frontend Development | JavaScript - TypeScript - React - Angular - Modern web standards and best practices |
+| Backend Development | Node.js - Python - RESTful APIs and microservices |
+| Databases & Cloud | MySQL - PostgreSQL - Microsoft Azure - Heroku - Database design and optimization |
 
 ## Professional Engagement
 
