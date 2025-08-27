@@ -27,10 +27,6 @@ Experienced software engineer specializing in scalable web applications and ente
 | Backend Development | Node.js - Python - RESTful APIs and microservices |
 | Databases & Cloud | MySQL - PostgreSQL - Microsoft Azure - Heroku - Database design and optimization |
 
-## Professional Engagement
+## Let's Connect
 
-Available for discussions regarding:
-- Software architecture and system design
-- Technical consultation and code review
-- Enterprise development solutions
-- Industry best practices and methodologies
+I'm available for discussions regarding software architecture and system design, technical consultation and code reviews, enterprise development solutions, and industry best practices and methodologies. Always open to exploring new opportunities and collaborating on innovative projects.
