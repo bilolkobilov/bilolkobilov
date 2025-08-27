@@ -20,20 +20,11 @@ Experienced software engineer specializing in scalable web applications and ente
 
 ## Technical Skills
 
-**Frontend Development**
-- JavaScript, TypeScript
-- React, Angular
-- Modern web standards and best practices
-
-**Backend Development**
-- Node.js
-- Python
-- RESTful APIs and microservices
-
-**Databases & Cloud**
-- MySQL, PostgreSQL
-- Microsoft Azure, Heroku
-- Database design and optimization
+| Category | Skills |
+|----------|--------|
+| Frontend Development | JavaScript, TypeScript, React, Angular, Modern web standards and best practices |
+| Backend Development | Node.js, Python, RESTful APIs and microservices |
+| Databases & Cloud | MySQL, PostgreSQL, Microsoft Azure, Heroku, Database design and optimization |
 
 ## Professional Engagement
 
