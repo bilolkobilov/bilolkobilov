@@ -6,10 +6,10 @@ Experienced software engineer specializing in scalable web applications and ente
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-bilolkobilov1%40gmail.com-black?style=flat&logo=gmail&logoColor=white)](mailto:bilolkobilov1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilolkobilov-black?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bilolkobilov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bilol.me-black?style=flat&logo=internetexplorer&logoColor=white)](https://www.bilol.me/en)
-[![GitHub](https://img.shields.io/badge/GitHub-bilolkobilov-black?style=flat&logo=github&logoColor=white)](https://github.com/bilolkobilov)
+[![Email](https://img.shields.io/badge/Email-bilolkobilov1%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:bilolkobilov1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilolkobilov-black?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/bilolkobilov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bilol.me-black?style=flat-square&logo=internetexplorer&logoColor=white)](https://www.bilol.me/en)
+[![GitHub](https://img.shields.io/badge/GitHub-bilolkobilov-black?style=flat-square&logo=github&logoColor=white)](https://github.com/bilolkobilov)
 
 ## Areas of Expertise
 
