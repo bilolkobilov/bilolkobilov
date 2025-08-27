@@ -43,6 +43,3 @@ Available for discussions regarding:
 - Enterprise development solutions
 - Industry best practices and methodologies
 
----
-
-*Delivering robust, maintainable software solutions through disciplined engineering practices.*
