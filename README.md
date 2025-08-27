@@ -42,4 +42,3 @@ Available for discussions regarding:
 - Technical consultation and code review
 - Enterprise development solutions
 - Industry best practices and methodologies
-
